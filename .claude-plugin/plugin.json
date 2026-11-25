@@ -1,0 +1,14 @@
+{
+  "name": "skill-templates",
+  "description": "Standardize agent replies with reusable templates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zmrocny"
+  },
+  "homepage": "https://github.com/zmrocny/skill-templates",
+  "repository": "https://github.com/zmrocny/skill-templates",
+  "documentationUrl": "https://github.com/zmrocny/skill-templates#readme",
+  "supportUrl": "https://github.com/zmrocny/skill-templates/issues",
+  "privacyPolicyUrl": "https://github.com/zmrocny/skill-templates#privacy",
+  "license": "MIT"
+}

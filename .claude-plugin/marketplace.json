@@ -1,0 +1,14 @@
+{
+  "name": "skill-templates",
+  "description": "Standardize agent replies with reusable templates.",
+  "owner": {
+    "name": "zmrocny"
+  },
+  "plugins": [
+    {
+      "name": "skill-templates",
+      "source": "./",
+      "description": "Standardize agent replies with reusable templates."
+    }
+  ]
+}

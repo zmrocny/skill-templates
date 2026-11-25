@@ -1,0 +1,25 @@
+name: skill-templates
+version: 1.0.0
+description: "Standardize agent replies with reusable templates."
+author: zmrocny
+license: MIT
+targets:
+  - copilot
+  - claude
+  - grok-build
+  - cursor
+  - opencode
+  - codex
+  - gemini
+  - antigravity
+  - windsurf
+  - kiro
+  - agent-skills
+dependencies:
+  apm: []
+  mcp: []
+devDependencies:
+  apm:
+  - zmrocny/skill-status#v1.0.0
+includes: auto
+scripts: {}
